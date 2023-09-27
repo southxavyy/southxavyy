@@ -1,6 +1,6 @@
 - Tak! To ja southxavyy który robi muzykę
 - Dziwne, muzyka i programowanie się nie łączą...
-- Kontakt: south.kontakt@gmail.com
+- Kontakt: jankowalmail054@gmail.com
 
 <!---
 southxavyy/southxavyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
